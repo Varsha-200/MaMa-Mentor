@@ -84,7 +84,7 @@ https://shalin-01.github.io/MaMa-Mentor
 
 ## Team Contributions
 - Neeraja S: Index page, Login Page
-- Shalin Ann Thomas: Checklist Page, Excercise Reccomendation Page
+- Shalin Ann Thomas: Checklist Page, Exercise Recommendation Page
 - Varsha S Panicker: Options Page, Trimester Calculator Page
 
 ---
